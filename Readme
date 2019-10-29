@@ -1,0 +1,16 @@
+Every react application has components.Each one contain Root component and its child components.
+An application is tree of componenets.Each component is a piece of UI.We develop component in the from of javascript class
+Every component has state and rendor method.Render method create react element.React element is simple javascript objects that maps to a 
+DOM element. 
+To set react environment
+install node.js package from https://nodejs.org. it will also install npm package . 
+Install create-react-app package by typing 
+npm i -g creat-react-app   //-g for global reference
+No create your first react app by typing command
+create-react-app react-app  //react-app is name of application rquired 
+It will install following react and all 3rd part libraries we need 
+development server, webpack bundle and babel compiler.
+Now in command prompt go to folder and run following command
+npm start
+It will run  server at default port 3000
+
