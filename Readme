@@ -13,4 +13,5 @@ development server, webpack bundle and babel compiler.
 Now in command prompt go to folder and run following command
 npm start
 It will run  server at default port 3000
-
+The files in package have counter and navbar and canbe used with React Applications.
+Cheers
